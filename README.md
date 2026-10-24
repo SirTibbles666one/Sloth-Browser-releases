@@ -4,13 +4,15 @@ Sloth is a closed-source Android browser. The app draws pages with Gecko. This r
 
 ## Install
 
-The current package is 1048. It runs on Android 8 and later, and it targets Android 16.
+The current package is 1091. It runs on Android 8 and later, and it targets Android 16.
 
-[Download SlothBrowser-1048.apk](https://github.com/SirTibbles666one/Sloth-Browser-releases/releases/download/1048/SlothBrowser-1048.apk)
+[Download SlothBrowser-1048.apk](https://github.com/SirTibbles666one/Sloth-Browser-releases/releases/download/1091/SlothBrowser-1091.apk)
 
 Install it over the previous build. Do not uninstall. A phone already on a higher number will not take an older file. Android asks you to confirm the install.
 
 The app checks this repository for a newer release. The latest file is named in [version.json](https://github.com/SirTibbles666one/Sloth-Browser-releases/releases/latest/download/version.json).
+
+Builds past 1091 are published as pre-releases while they are being worked on, so the update channel does not offer them. They appear in the release list and install over 1091 by hand.
 
 ## What it does
 
@@ -30,5 +32,5 @@ The browser is closed source. All rights reserved. You may install the signed pa
 
 | File | What it is |
 | --- | --- |
-| `SlothBrowser-1048.apk` | The signed install package |
+| `SlothBrowser-1091.apk` | The signed install package |
 | `version.json` | The version the app reads when it checks for an update |
