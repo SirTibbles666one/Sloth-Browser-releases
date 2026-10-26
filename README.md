@@ -5,9 +5,9 @@ signed installers only. There is no source code here and no signing key.
 
 ## Install
 
-The current package is **1242**. It runs on Android 8 and later, and it targets Android 16.
+The current package is **1243**. It runs on Android 8 and later, and it targets Android 16.
 
-[Download SlothBrowser-1242.apk](https://github.com/SirTibbles666one/Sloth-Browser-releases/releases/download/1222/SlothBrowser-1242.apk)
+[Download SlothBrowser-1243.apk](https://github.com/SirTibbles666one/Sloth-Browser-releases/releases/download/1222/SlothBrowser-1243.apk)
 
 Install it over the previous build. Do not uninstall: the app's data, settings and tabs live in
 its storage, and an uninstall takes them with it. Android asks you to confirm the install. A
@@ -65,7 +65,7 @@ the signed packages here are the only builds that exist.
 | `SlothBrowser-<n>.apk` | The signed install package for build `<n>` |
 | `version.json` | The version the app reads when it checks for an update |
 
-Build numbers run in plain integers, one per shipped package, from 1092 to the current 1242. A
+Build numbers run in plain integers, one per shipped package, from 1092 to the current 1243. A
 number is never reused and never patched in place: a fix is the next number, so the phone can
 always tell which build it is running.
 
